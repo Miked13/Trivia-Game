@@ -1,0 +1,11 @@
+body {
+    background-image: url("../images/greece.jpg");
+    background-size: cover;
+    height: 100%;
+    color: burlywood;
+}
+
+#container{
+    display: inline-block;
+    text-align: center;
+}
